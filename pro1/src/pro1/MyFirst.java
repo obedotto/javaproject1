@@ -4,5 +4,7 @@ public class MyFirst {
 	public static void main(String args[])
 	{
 		System.out.println("Praise the Lord");
+		System.out.println("This is from branch 1");
+		
 	}
 }
